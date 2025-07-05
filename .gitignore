@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+
+Pacman/bin/
+TicTacToe/bin/
