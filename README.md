@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-This repository contains my comprehensive implementation of **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron. This project represents a complete journey through modern machine learning, from fundamental concepts to advanced deep learning and reinforcement learning techniques.
+This repository contains my comprehensive implementation of **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron, following the [bahrak courses tutorial series](https://www.youtube.com/playlist?list=PLdSslhDhrVc55hzIJ245efXSyXbUedl2v). This project represents a complete journey through modern machine learning, covering fundamental concepts through advanced deep learning and reinforcement learning techniques.
 
 ## 🎯 Key Achievements
 
@@ -85,24 +85,6 @@ This repository contains my comprehensive implementation of **Hands-On Machine L
 - **Time Series Analysis** - Sequence modeling and forecasting
 - **Reinforcement Learning** - Game playing and control systems
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/HandsOnML-Practice.git
-   cd HandsOnML-Practice
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Explore the notebooks**
-   - Start with `Supervised-Learning/` for fundamental ML concepts
-   - Progress to `Neural-Networks/` for deep learning
-   - Explore `NLP/` and `RL/` for advanced applications
-
 ## 📊 Project Statistics
 
 - **Total Notebooks**: 20+ comprehensive implementations
@@ -126,7 +108,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 This is a personal learning portfolio, but suggestions and improvements are welcome through issues and pull requests.
-
----
-
-**Note**: This repository represents a comprehensive journey through modern machine learning, showcasing both theoretical understanding and practical implementation skills. Each notebook includes detailed explanations, code comments, and real-world applications to demonstrate proficiency in machine learning and deep learning techniques.
